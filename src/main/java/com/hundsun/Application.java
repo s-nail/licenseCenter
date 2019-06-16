@@ -1,6 +1,6 @@
 package com.hundsun;
 
-import com.hundsun.common.annotation.EnableLicenseAuthCheck;
+import com.hundsun.licensesdk.lang.annotation.EnableLicenseAuthCheck;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
